@@ -10,11 +10,11 @@ one can also specify a null period before the stimuli begins
 
 these parameters are also saved for every experiment, along with other data, in a .csv
 
-also, if one a button box is used the experimenter can keep tabs on subject performance and give between-run feedback or decide whether to re-run anything. summary counts of finger taps are printed in the psychopy stdout window at the end of each run.
+also, if a button box is used, the experimenter can monitor subject performance and give feedback or decide whether to re-run anything. summary counts of finger taps are printed in the psychopy stdout window at the end of each run.
 
 finally there are 4 possible conditions: 
 right tapping with touch, left with touch, right without touch, left without touch
-although the last 2 don't make sense with button pushing...
+although the last 2 don't make sense a ton of sense with button pushing...
 
 just fyi, how i converted the original pics to movies:
 #first convert to an animated gif with imagemagick:
