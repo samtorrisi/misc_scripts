@@ -1,2 +1,2 @@
 # misc_scripts
-miscellaneous scripts from grad school, postdoc and beyond
+miscellaneous scripts from postdoc and beyond
